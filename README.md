@@ -1,3 +1,24 @@
+# Application
+
+The website is available at https://federicopessina.github.io/Bytes/
+
+# Develop
+
+## Run the project locally
+
+1. Git pull the project locally
+2. Open the project in your terminal
+3. Run the following 
+```console
+npm run dev
+```
+4. Click on the localhost url in the output of the terminal
+
+# Release
+
+1. merge develop branch to master branch
+2. GitHub Action for the publishing is triggered (you can see that in Action tab)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
