@@ -1,0 +1,9 @@
+.markdown {
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+}
+
+.markdown h1 {
+  font-size: 3rem;
+}
