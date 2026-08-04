@@ -1,5 +1,5 @@
 import MarkdownPage from "../components/MarkdownPage";
-import about from "../content/pages/about.md?raw";
+import about from "../content/static/about.md?raw";
 
 export default function About() {
   return <MarkdownPage content={about} />;
